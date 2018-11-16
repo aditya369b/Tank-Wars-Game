@@ -1,6 +1,6 @@
 # csc413-TankGame
 
-## Student Name :
-## Student ID :
+## Student Name : Aditya Bodi
+## Student ID : 918521817
 
 
