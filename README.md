@@ -12,15 +12,15 @@
 ## Player Controls:
 
 ### Player 1: 
-###	      Up arrow    : Move Forward/Ahead
-###	      Down arrow  : Move Backwards
-###	      Left arrow  : Rotate left side
-###	      Right arrow : Rotate right side
-###	      Enter       : Shoot bullet
-
-### Player 2: 
 ###	      'W' : Move Forward/Ahead
 ###	      'S' : Move Backwards
-###	      'A' : Rotate left side
-###	      'D' : Rotate right side
+###	      'A' : Rotate left side (Anti-clockwise)
+###	      'D' : Rotate right side (Clockwise)
 ###	      SPACE BAR : Shoot bullet
+
+### Player 2: 
+###	      Up arrow    : Move Forward/Ahead
+###	      Down arrow  : Move Backwards
+###	      Left arrow  : Rotate left side (Anti-clockwise)
+###	      Right arrow : Rotate right side (Clockwise)
+###	      Enter       : Shoot bullet
